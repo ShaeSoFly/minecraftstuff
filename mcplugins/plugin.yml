@@ -1,0 +1,8 @@
+name: MCPluginTest
+main: com.github.ShaeSoFly.MCPlugins.MCPluginTest
+version: 1.0
+commands:
+   blarg:
+      description: This is a blarg command.
+      usage: /blarg [player]
+     

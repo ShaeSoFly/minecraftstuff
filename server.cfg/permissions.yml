@@ -1,0 +1,8 @@
+# some comment
+
+users:
+    akevan:
+        permissions:
+            permissions.* = true
+            
+    
