@@ -42,6 +42,7 @@ public class MCPluginTest extends JavaPlugin implements Listener
 			Location loc = player.getLocation();
 			player.getWorld().playEffect(loc, Effect.GHAST_SHRIEK,0);
 			return true;
+			//testing
 		} 
 		
 		return false;
@@ -73,5 +74,5 @@ public class MCPluginTest extends JavaPlugin implements Listener
     	event.getPlayer().sendMessage(ChatColor.RED + "Got RESPAWN at " + startLoc.toString());
     }
 }
-
+//
 
